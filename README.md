@@ -10,6 +10,12 @@ high-throughput sequencing. The sequencing reads are then used to create a spati
 
 In general Spatial Transcriptomics can be divided into three categories: In situ hybridization (mostly referred to as sequencing-based ST), in situ sequencing and in situ capturing technologies. The first two methods are used to target specific genes a priori, when the genes of interest are already known. The latter technique can be used as an exploratory approach to discover new patterns.
 
+ChatGPT prompt:
+1.) Task copy-pasted to ChatGPT to get an idea about the sequencing method
+2.) Summary copy-pasted to ChatGPT to check for typos and unclarities
+
+Sources for general information:
+1.) https://pubs.acs.org/doi/10.1021/jacsau.4c00118
 
 
 
