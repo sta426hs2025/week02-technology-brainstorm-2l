@@ -16,7 +16,7 @@ Sources:
 3.) X inactivation: 
 https://pubmed.ncbi.nlm.nih.gov/24162848/
 https://pmc.ncbi.nlm.nih.gov/articles/PMC9485286/
-4.) Paper using poisson for ChIRP seq data:
+4.) Paper using poisson for ChIRP seq data: https://www.mdpi.com/2073-4409/12/24/2805
 
 ChatGPT prompts:
 1.) "Can you summarize this link? https://www.sciencedirect.com/science/article/pii/S1097276511006800"
