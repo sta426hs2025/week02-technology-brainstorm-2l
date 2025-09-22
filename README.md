@@ -5,10 +5,10 @@ Group usernames: linaidan, aurelia-chiara, Samirainnocente
 "How our technology works" (Sequencing Based Spatial Transcriptomics)
 
 Sequencing based spatial transcriptomics is a kind of RNA sequencing that combines the quantification of gene expression profiles while keeping spatial context. The tissue and its mRNA can be analyzed in situ without the loss of their spatial information. This allows researchers to study tissues and measure the cells' transcripts and their position. The spatial information is important to understand various processes
-in biological systems such as gene expression, cell signalling and intercellular communication. The method usually consists of preparing the tissue slides and capturing the mRNA with specific barcodes that also provide the positional coordinates. Then the captured mRNAs are reverese transcribed and sequenced using
-high through-put sequencing. The sequencing reads are then used to create a "map" of the gene expression across the tissue. 
+in biological systems such as gene expression, cell signalling and intercellular communication. The method usually consists of preparing the tissue slides and capturing the mRNA with specific barcodes that also provide the positional coordinates. Then the captured mRNAs are reverse transcribed and sequenced using
+high-throughput sequencing. The sequencing reads are then used to create a spatial map of the gene expression across the tissue. 
 
-In general Spatial Transcriptomics can be divided into three categories: In situ hybridization, in situ sequencing and in situ capturing technologies. The first two methods are used to target specific genes a priori, when the genes of interest are already known. The latter technique can be used as an exploratory approach to discover new patterns.
+In general Spatial Transcriptomics can be divided into three categories: In situ hybridization (mostly referred to as sequencing-based ST), in situ sequencing and in situ capturing technologies. The first two methods are used to target specific genes a priori, when the genes of interest are already known. The latter technique can be used as an exploratory approach to discover new patterns.
 
 
 
